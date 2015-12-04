@@ -1,5 +1,7 @@
 <?php 
-
+	
+	/* Author: Orhan KALAYCI */
+	
 	$name = $_GET["name"];
 	$key = $_GET["key"];
 	$width = $_GET["width"];
